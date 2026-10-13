@@ -37,6 +37,7 @@
 - [W3C Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/) — The foundation. Globally unique, self-sovereign identifiers controlled by the subject, not a central authority. Multiple DID methods exist (`did:web`, `did:key`, `did:ion`, `did:wba`).
 - [W3C Verifiable Credentials](https://www.w3.org/TR/vc-data-model-2.0/) — Cryptographically signed, tamper-evident, machine-verifiable credentials. The digital equivalent of physical certificates. Trust triangle: Issuer → Holder → Verifier.
 - [ERC-8004](https://eips.ethereum.org/EIPS/eip-8004) — Ethereum standard for on-chain agent identity, reputation, and validation registries. Three registries: identity (NFT-based), reputation (on-chain ratings), validation (capability attestations).
+- [Universal Trust Adapter (UTA)](https://github.com/alicelabs-llc/universal-trust-adapter) — Open protocol that translates between AI-agent trust credential formats via a canonical Universal Trust Schema (UTS). Ed25519-signed Agent Trust Cards (ATC/1.0), Sigstore Rekor anchoring, and a public 36-vector conformance corpus with reference implementation.
 
 ### Implementations
 
