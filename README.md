@@ -1,4 +1,4 @@
-# Awesome AI Agent Protocols [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/nicoewawe/awesome-ai-agent-protocols/pulls)
+# Awesome AI Agent Protocols [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/eddyflores100-lang/awesome-ai-agent-protocols/pulls)
 
 > A curated list of protocols, tools, and services powering the AI agent infrastructure stack — identity, discovery, communication, payments, and governance.
 
